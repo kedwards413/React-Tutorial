@@ -3,12 +3,12 @@ import ReactDOM from "react-dom";
 
 // if we have a variable
 let age = "12";
-let name = "John";
+let name = "James";
 
 // we can use it in our html like this
 let output = (
 	<span>
-		James is{age} years old
+		{name} is {age} years old
 	</span>
 );
 
