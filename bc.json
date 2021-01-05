@@ -256,7 +256,7 @@
         {
             "slug": "06-listening-to-events",
             "title": "06-listening-to-events",
-            "done": false,
+            "done": true,
             "path": "exercises/06-listening-to-events",
             "translations": [
                 "es",
